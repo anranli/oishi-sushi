@@ -1,0 +1,10 @@
+Oishi Sushi
+Puzzle game. Use chutes, ladders, and walls to guide food to the boy. 
+Author: Anran Li, 2009 (with Glen Takahashi: github.com/glentakahashi)
+
+Source: main folder
+Images and Sound: images/, sounds/, and main folder
+Run: build/oishi.jar
+Other: greenfoot/ and bluej/ contain addition libraries
+
+Help? Email lianran@gmail.com
